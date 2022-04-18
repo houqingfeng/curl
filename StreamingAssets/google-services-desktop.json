@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015044034134",
+    "project_id": "pet2048-b3fb3",
+    "storage_bucket": "pet2048-b3fb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015044034134:android:5dd8d15418c4ceb34d35f7",
+        "android_client_info": {
+          "package_name": "com.puppy.town.merge.bonus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015044034134-qcijmeok6h0151hfcqngu49u5nhsrg44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBudgOPe8G_iE1FV2d6JSs2fnXwX2Oh6b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015044034134-qcijmeok6h0151hfcqngu49u5nhsrg44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
